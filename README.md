@@ -80,7 +80,7 @@ Expected response:
 }
 ```
 
-![Test Route](<img width="1912" height="965" alt="Screenshot 2026-09-11 094008" src="https://github.com/user-attachments/assets/91ac154c-f6fc-4809-8992-f937761a5d50" />
+![Test Route](<img width="800" alt="Test Route" src="https://github.com/user-attachments/assets/91ac154c-f6fc-4809-8992-f937761a5d50" />
 )
 
 ### Create a Product
@@ -110,7 +110,7 @@ Expected response:
 }
 ```
 
-![Product Created in Postman](<img width="1582" height="987" alt="Screenshot 2026-09-12 093210" src="https://github.com/user-attachments/assets/d2bea76b-5833-4dbd-b76d-24dd0ca949b9" />
+![Product Created in Postman](<img width="800" alt="Postman API Test" src="https://github.com/user-attachments/assets/d2bea76b-5833-4dbd-b76d-24dd0ca949b9" />
 )
 
 ## 🔄 CRUD Operations
